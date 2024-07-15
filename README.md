@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joaomissel
-- 👀 I’m interested in ...
+- 👀 I’m interested in SQL
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on everything i can do
 
